@@ -9,6 +9,6 @@ This script will replace the `master` branch with a branch called `main` in gith
 
 - Set the `GITHUB_USERNAME` and `GITHUB_PASSWORD` environment variables using credentials that have the right to set the default branch via the github api.
 
-	```
-	./migrate-to-main-branch.bash <path to local clone>
-	```
+```
+./migrate-to-main-branch.bash <path to local clone>
+```
